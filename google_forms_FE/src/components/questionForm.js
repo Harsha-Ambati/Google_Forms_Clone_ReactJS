@@ -3,7 +3,6 @@ import React from "react";
 import { useState, useEffect } from "react";
 import "./questionForm.css";
 import Select from "@material-ui/core/Select";
-// import Select from 'react-select'
 import Switch from "@material-ui/core/Switch";
 import CheckBoxIcon from "@material-ui/icons/CheckBox";
 import ShortTextIcon from "@material-ui/icons/ShortText";
