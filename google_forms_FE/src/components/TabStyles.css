@@ -1,0 +1,23 @@
+#tab-btn {
+  margin-left: 1800px;
+  margin-top: 10px;
+  background-color: wheat;
+  border: none;
+  color: black;
+  align-items: center;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 35px;
+  padding-bottom: 8px;
+  font-family: verdana;
+  font-weight: 0;
+}
+
+#wrapper {
+  text-align: center;
+}
+
+#info {
+  font-style: oblique;
+  font-size: 30px;
+}

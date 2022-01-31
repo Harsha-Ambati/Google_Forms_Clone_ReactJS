@@ -1,0 +1,23 @@
+#container {
+  text-align: justify;
+  padding: 100px;
+  width: 350px;
+  height: 1670px;
+  margin-top: 15px;
+  margin-left: 700px;
+  border: 2px solid red;
+  background-color: lightblue;
+}
+
+#btn-submit {
+  background: #0066a2;
+  color: white;
+  border-style: outset;
+  border-color: #0066a2;
+  height: 50px;
+  width: 100px;
+  font: verdana;
+  text-shadow: none;
+  margin-left: 100px;
+}
+

@@ -1,0 +1,71 @@
+/* Styling for welcome.js */
+.template_section {
+  background-color: wheat;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.template_top {
+  margin-left: 150px;
+  margin-right: 180px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.template_right {
+  display: flex;
+  padding-bottom: 25px;
+}
+
+.template_body {
+  margin-left: 150px;
+  margin-right: 180px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.card_image {
+  box-sizing: border-box;
+  height: 120px;
+  width: 140px;
+  border-radius: 2px;
+  border: 0.5px solid #fffdf7;
+  cursor: pointer;
+}
+
+.card_image:hover {
+  border: 1px solid #6e2594;
+}
+
+.title {
+  font-size: 14px;
+  font-family: "verdana";
+  font-weight: 500;
+  color: black;
+  margin-top: 4px;
+}
+
+.template_right {
+  padding-bottom: 15px;
+}
+
+.template_bottom {
+  margin-left: 150px;
+}
+
+.new_form {
+  margin-left: 150px;
+}
+
+#formvalues {
+  background-color: #dfe6e0;
+}

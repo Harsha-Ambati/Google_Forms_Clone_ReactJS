@@ -1,0 +1,35 @@
+
+#sign-in {
+  background-color: burlywood;
+  text-align: center;
+  margin: 15px;
+  width: 450px;
+  align-items: center;
+  margin-top: 350px;
+  margin-left: 800px;
+}
+
+#sign-up{
+  background-color: burlywood;
+  text-align: center;
+  margin: 15px;
+  width: 450px;
+  align-items: center;
+  margin-top: 350px;
+  margin-left: 800px;
+}
+
+[type="text"],
+[type="password"] {
+  width: 150px;
+  text-align: center;
+  border: none;
+  border-bottom: 2px solid black;
+}
+
+#login-btn {
+  margin: 20px;
+  font-size: 25px;
+  color: white;
+  background-color: blue;
+}
