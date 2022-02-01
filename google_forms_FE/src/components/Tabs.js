@@ -19,6 +19,7 @@ export default function AllTabs() {
     history.push('/form/'+ ID +'/viewresponses');
   }
 
+
   return (
     <Paper className={classes.root}>
       <Tabs

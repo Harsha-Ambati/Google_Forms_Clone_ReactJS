@@ -133,7 +133,6 @@ const history = useHistory();
        history.push('/welcome');
      }
    });
-  //  history.push('/form/create/'+ formIdReceived);
   }
       }
 
